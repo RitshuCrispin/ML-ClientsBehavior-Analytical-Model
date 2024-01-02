@@ -1,7 +1,8 @@
-# Proyecto estructurado en 2 etapas
-Revisar carpetas, cada una cuenta con su propio archivo  README.
+# Project splitted in 2 stages
+Review folders, each one has its own README file.
+
 ## EDA
-Contiene los archivos datasets y cuaderno donde se realiza el procesamiento, análisis EDA y pruebas de hipótesis.
+It contains the datasets and notebook files where the processing, EDA analysis and hypothesis testing are carried out.
 
 ## ML
-Contiene archivo dataset y cuaderno donde se evalúan los diferentes modelos de clasificación.
+Contains dataset file and notebook where the different classification models are evaluated.
